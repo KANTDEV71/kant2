@@ -18,7 +18,7 @@ const help = (prefix) => {
 ╠────────────────────
 ┃Ⓢ  *${prefix}owner*
 ┃Ⓢ  *${prefix}owner*
-┃Ⓢ  *${prefix}owner*
+┃Ⓢ  *${prefix}ajudantes*
 ┃
 ╠───〘 *💌𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒💌* 〙──────
 ┃
@@ -84,7 +84,7 @@ const help = (prefix) => {
 ┃❗Utilidade Boas vindas 
 ┃Ⓢ *${prefix}grupoinfo*
 ┃❗Utilidade Descrição gp
-┃Ⓢ * ${prefix}leveling [on/off]*
+┃Ⓢ *${prefix}leveling [on/off]*
 ┃❗Utilidade Sistema de level
 ┃Ⓢ *${prefix}level*
 ┃❗Utilidade Seu level
@@ -102,7 +102,7 @@ const help = (prefix) => {
 ┃❗Utilidade-marque alguem para abraça-lo
 ┃Ⓢ  *${prefix}bodia*
 ┃❗Utilidade-audio de bom dia
-┃Ⓢ * ${prefix}batarde*
+┃Ⓢ *${prefix}batarde*
 ┃❗Utilidade-audio de boa tarde
 ┃Ⓢ  *${prefix}banoit*
 ┃❗Utilidade-audio de boa noite
@@ -196,8 +196,8 @@ const help = (prefix) => {
 ┃ WPP: wa.me/5571982507697
 ┃ OLA
 ┃  VC ESTA BEM?
-┃ Q BOM BB
-┃  
+┃aquela morena gostosa uii 
+┃ @CAR
 ┃  Copyright © by 𝐾𝐴𝑁𝑇 𝐿𝑆
 ┃
 ╰─〘  𝐾𝐴𝑁𝑇 𝐿𝑆 𝐁𝐎𝐓 〙──────────────────`
