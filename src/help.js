@@ -17,7 +17,7 @@ const help = (prefix) => {
 ┃❗*comando de ${prefix}modapk atualizado somente vip*❗
 ╠────────────────────
 ┃Ⓢ  *${prefix}owner*
-┃Ⓢ  *${prefix}owner*
+┃Ⓢ  *${prefix}dono*
 ┃Ⓢ  *${prefix}ajudantes*
 ┃
 ╠───〘 *💌𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒💌* 〙──────
@@ -197,7 +197,7 @@ const help = (prefix) => {
 ┃ OLA
 ┃  VC ESTA BEM?
 ┃aquela morena gostosa uii 
-┃ @CAR
+┃ @CAROL MAIS BRABA ❤️
 ┃  Copyright © by 𝐾𝐴𝑁𝑇 𝐿𝑆
 ┃
 ╰─〘  𝐾𝐴𝑁𝑇 𝐿𝑆 𝐁𝐎𝐓 〙──────────────────`
