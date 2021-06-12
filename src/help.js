@@ -1,12 +1,12 @@
 const help = (prefix) => {
 	return `
-⊱ ────── {𝐾𝐴𝑁𝑇 𝐿𝑆 𝐁𝐎𝐓} ────── ⊰
+⊱ ────── {MrFresaYT-Bot 😼🍓😾} ────── ⊰
 ┃〘* 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐎𝐄𝐒 *〙
-╠👑 *𝐾𝐴𝑁𝑇 𝐿𝑆*
-╠👑 *dono 𝐾𝐴𝑁𝑇 𝐿𝑆*
-╠👑 *wa.me/+5571982507697*
+╠👑 *MrFresaYT😼🍓😾*
+╠👑 *dono MrFresaYT 😼🍓😾*
+╠👑 *wa.me/+51928574897*
 ╠👑 *status: ON*
-╠👑 *BOT ESTA EM TESTES*
+╠👑 *MRFRESAYT❤️*
 ╠👑 *GIFT CARD*
 ╠👑 *caso for ajudar*
 ╠👑 *86 comandos obs no menu*
@@ -189,7 +189,7 @@ const help = (prefix) => {
 ┃ *Ⓢ gemidao*
 ┃ *Ⓢ musica*
 ┃
-╠──✰〘  𝐾𝐴𝑁𝑇 𝐿𝑆 𝐃𝐎𝐌𝐈𝐍𝐀 〙✰──
+╠──✰〘MrFresaYT - Bot 😼🍓😾〙✰──
 ┃
 ┃ NOME: 𝐾𝐴𝑁𝑇 𝐿𝑆
 ┃ INSTA: vitornnb
