@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+6in/bash
 apt install figlet 
 apt install hiptext
 CYAN="\033[1;36m"
@@ -32,9 +32,9 @@ fi
 
 clear
 
-figlet -c -f slant -t 'KANT bot' | lolcat 
+figlet -c -f slant -t 'MRFREAAbot' | lolcat 
 
-echo  "𝐾𝐴𝑁𝑇 𝐿𝑆 no controle fml sem escândalo \n\n" | lolcat -a -d 50 
+echo  "MRFRESA no controle fml sem escândalo \n\n" | lolcat -a -d 50 
 
 apt-get update
 apt-get upgrade
