@@ -191,16 +191,16 @@ const help = (prefix) => {
 ┃
 ╠──✰〘MrFresaYT - Bot 😼🍓😾〙✰──
 ┃
-┃ NOME: 𝐾𝐴𝑁𝑇 𝐿𝑆
-┃ INSTA: vitornnb
+┃ NOME: MrFresaYT - Bot 😼🍓😾
+┃ INSTA: MrFresaYT - Bot 😼🍓😾
 ┃ WPP: wa.me/5571982507697
-┃ OLA
-┃  VC ESTA BEM?
-┃aquela morena gostosa uii 
-┃ @CAROL MAIS BRABA ❤️
-┃  Copyright © by 𝐾𝐴𝑁𝑇 𝐿𝑆
+┃ MrFresaYT - Bot 😼🍓😾
+┃  
 ┃
-╰─〘  𝐾𝐴𝑁𝑇 𝐿𝑆 𝐁𝐎𝐓 〙──────────────────`
-}
+┃
+┃  Copyright © by MrFresaYT - Bot 😼🍓😾
+┃
+╰─〘  MrFresaYT - Bot 😼🍓😾 〙──────────────────`
+
 
 exports.help = help
