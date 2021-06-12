@@ -3,16 +3,16 @@ const alugar = () => {
 ╔══✪〘 ALUGAR 〙✪══
 ║
 ╠═══════════════════════════
-╠➥ *LISTA DE ALUGUEL E CRIAR BOTS:*
-╠➥ *ALUGUEL: 10 / GRUPO (MÊS)*
-╠➥ *CRIAR: 30 (PODE SER PROPRIETÁRIO)*
+╠➥ *LISTA DE ALUGUEL DE LOGIN DE :*
+╠➥ *ALUGUEL: 60 / PROJECTX(MÊS)*
+╠➥ *RESTO SO CHAMAR NO NÚMERO *
 ╠➥ *PODE PAGAR ATRAVÉS DE:*
-╠➥ *MERCADO PAGO,PIX, BOLETO,*
+╠➥ *MERCADO PAGO,PIX, BOLETO PAYPAL,*
 ╠═══════════════════════════
 ╠➥ *VANTAGENS*
-╠➥ *wa.me/5571982507697*
+╠➥ *wa.me/51928574897*
 ║
-╚═〘  𝐾𝐴𝑁𝑇 𝐿𝑆  〙
+╚═〘  MrFresaYT 😼🍓😾 〙
 `
 }
 exports.alugar = alugar
